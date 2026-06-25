@@ -1,1 +1,2 @@
 ###Project Documentaion File for Documnet the every things while working on the Project :trade-markrt-price-monitoring
+primary benefits of documentation in DevOps center on maximizing system uptime, accelerating software delivery, and eliminating operational silos. It transforms tribal knowledge into a scalable corporate asset.
